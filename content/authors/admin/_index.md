@@ -4,7 +4,7 @@ title: Allie .S Ubisse
 
 # Username (this should match the folder name)
 authors:
-- admin
+- AllieUbisse
 
 # Is this the primary user of the site?
 superuser: true

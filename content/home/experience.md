@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Western cape, cape town"
   date_start = "2020-08-20"
-  date_end = "2020-11-30"
+  date_end = ""
   description = """ThemasWater Efluent monitoring system Proof of Concept\n 
   Responsibilities include:
   

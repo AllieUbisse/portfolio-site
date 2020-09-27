@@ -10,8 +10,9 @@ categories: ["Machine Learnig"]
 date: 2020-09-27T20:07:32+02:00
 lastmod: 2020-09-27T20:07:32+02:00
 featured: false
-draft: false
+draft: true
 reading_time: true
+comments: true
 # external_link: "http://external-project.com"
 
 # Featured image

@@ -42,9 +42,12 @@ date_format = "Jan 2006"
   description = """ThemasWater Efluent monitoring system Proof of Concept\n 
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+* Built data gathering ETL Pipelines through Web Scraping with AWS RDS storage.
+* Analysised Data and Built Dashboards utilizing Microsoft Power BI.
+* Built predictive models for Supervised and unsupervised tasks with Machine Learning and Deep Learning.
+* Deployed models utilizing Flask API, Streamlit and AWS cloud EC2 instances.
+* Wrote project reports and communicate findings.
+
   """
 
 +++

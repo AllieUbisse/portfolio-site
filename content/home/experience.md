@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   
 * Team co-ordinator.
 * Designing data pipeline Architecture.
-* Building a spark structured Data pipeline from Eventhub to Azure Data lake storage. 
+* Building a spark structured streaming data pipeline from Eventhub to Azure Data lake storage. 
 * Cleaning and aggregating data stream into Delta Lake's silver gold tables.
 * Optimizing Delta Lake tables.
 * Evaluating data streaming latency.

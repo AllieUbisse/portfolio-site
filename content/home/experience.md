@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   description = """ThemasWater Efluent monitoring system Proof of Concept\n 
   Responsibilities include:
   
-* Leading Team co-ordinator.
+* Team co-ordinator.
 * Designing data pipeline Architecture.
 * Building a spark structured Data pipeline from Eventhub to Azure Data lake storage. 
 * Cleaning and aggregating data stream into Delta Lake's silver gold tables.

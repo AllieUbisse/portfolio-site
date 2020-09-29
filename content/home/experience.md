@@ -20,26 +20,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Data Science Intern"
   company = "Explore Data Science Academy"
-  company_url = ""
+  company_url = "https://explore-datascience.net/"
   location = "Western cape, cape town"
   date_start = "2020-01-10"
-  date_end = "2020-11-30"
+  date_end = "2020-07-30"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
-[[experience]]
-  title =  "Data Science Intern"
-  company = "Explore Software Ai"
-  company_url = ""
-  location = "Western cape, cape town"
-  date_start = "2020-08-20"
-  date_end = ""
-  description = """ThemasWater Efluent monitoring system Proof of Concept\n 
   Responsibilities include:
   
 * Built data gathering ETL Pipelines through Web Scraping with AWS RDS storage.
@@ -47,6 +33,28 @@ date_format = "Jan 2006"
 * Built predictive models for Supervised and unsupervised tasks with Machine Learning and Deep Learning.
 * Deployed models utilizing Flask API, Streamlit and AWS cloud EC2 instances.
 * Wrote project reports and communicate findings.
+
+  """
+
+[[experience]]
+  title =  "Data Science Intern"
+  company = "Explore Software"
+  company_url = "https://www.explore-software.net/"
+  location = "Western cape, cape town"
+  date_start = "2020-08-20"
+  date_end = ""
+  description = """ThemasWater Efluent monitoring system Proof of Concept\n 
+  Responsibilities include:
+  
+* Leading Team co-ordinator.
+* Designing data pipeline Architecture.
+* Building a spark structured Data pipeline from Eventhub to Azure Data lake storage. 
+* Cleaning and aggregating data stream into Delta Lake's silver gold tables.
+* Optimizing Delta Lake tables.
+* Evaluating data streaming latency.
+* Communicating Findings to stakeholders.
+* Reviewing and monitoring team progress.
+* Acting as a resource for other team members during Blockers.
 
   """
 
